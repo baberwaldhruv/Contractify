@@ -19,8 +19,3 @@ A contract management platform currently under development.
 
 ## Current Status
 Backend and database integration are currently in development.
-
-## Future Improvements
-- AI contract analysis
-- Role-based authentication
-- Cloud deployment
